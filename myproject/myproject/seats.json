@@ -1,0 +1,10 @@
+[
+    {"movie_id": 3, "number": "A1", "is_available": true},
+    {"movie_id": 3, "number": "A2", "is_available": false},
+    {"movie_id": 3, "number": "A3", "is_available": true},
+    {"movie_id": 3, "number": "A4", "is_available": false},
+    {"movie_id": 2, "number": "B1", "is_available": true},
+    {"movie_id": 2, "number": "B2", "is_available": true},
+    {"movie_id": 2, "number": "B3", "is_available": false},
+    {"movie_id": 2, "number": "B4", "is_available": true}
+]

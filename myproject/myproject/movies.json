@@ -1,0 +1,47 @@
+[
+    {
+        "title": "Spiderman",
+        "description": "Description for Movie 1",
+        "genre": "action",
+        "language": "english",
+        "rating": "PG-13",
+        "poster_url": "https://github.com/kartikay07/myimg/blob/main/spiderman.jpg?raw=true",
+        "release_date": "2024-10-05",
+        "duration": 120,
+        "price_per_seat": 10.00
+    },
+    {
+        "title": "Shift",
+        "description": "Description for Movie 2",
+        "genre": "comedy",
+        "language": "english",
+        "rating": "G",
+        "poster_url": "https://github.com/kartikay07/myimg/blob/main/swift.jpeg?raw=true",
+        "release_date": "2024-09-15",
+        "duration": 90,
+        "price_per_seat": 12.50
+    },
+    {
+        "title": "Jhon whick",
+        "description": "Description for Movie 3",
+        "genre": "comedy",
+        "language": "english",
+        "rating": "G",
+        "poster_url": "https://github.com/kartikay07/myimg/blob/main/OIP.jpeg?raw=true",
+        "release_date": "2024-09-15",
+        "duration": 90,
+        "price_per_seat": 13.50
+    },
+    {
+        "title": "Inception",
+        "description": "A mind-bending thriller about dream invasion.",
+        "duration": 148,
+        "rating": "PG-13",
+        "poster_url": "https://github.com/kartikay07/myimg/blob/main/th.jpeg?raw=true",
+        "genre": "Action",
+        "language": "English",
+        "release_date": "2010-07-16",
+        "price_per_seat": "12.50"
+      }
+]
+
